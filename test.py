@@ -1,2 +1,3 @@
-x = int(input())
-print(((x // 2) + 1)*2)
+x = str(input())
+x1 = x * 100
+print(int(x1) ** 2)
